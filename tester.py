@@ -1,4 +1,12 @@
-#programa creado por CromxDev 15.11.2024
+#  /*******************************************************************************
+#  *
+#  * Lab4.py: Transformaciones Geométricas en 3D
+#  *
+#  * Programmer: Cristobal Gallardo & Vicente Santos
+#  *
+#  * Santiago de Chile, 21/11/2024
+#  *
+#  ******************************************************************************/
 
 import pygame
 import numpy as np
