@@ -1,7 +1,7 @@
 # Juego_de_naves
-Laboratorio 4-5 Computacion Grafica
+Laboratorio 4-5 Computacion Grafica: Transformaciones Geométricas en 3D <br>
 Vicente Santos
-Cristobal Gallardo
+Cristobal Gallardo 
 
 Modo de uso
 -------------------------
